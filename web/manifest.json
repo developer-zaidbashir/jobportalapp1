@@ -1,6 +1,6 @@
 {
-    "name": "jobportalapp1",
-    "short_name": "jobportalapp1",
+    "name": "job_portal",
+    "short_name": "job_portal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
